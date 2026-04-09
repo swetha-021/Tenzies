@@ -14,9 +14,9 @@ Clean and responsive UI
 Confetti animation on win
 
 **Built With**
-React
-Vite
-JavaScript
-CSS
-Nano ID
+React,
+Vite,
+JavaScript,
+CSS,
+Nano ID,
 React Confetti
